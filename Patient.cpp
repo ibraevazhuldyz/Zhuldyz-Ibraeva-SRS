@@ -1,3 +1,4 @@
+#include <iostream>
 #include "Patient.h"
 
 Patient::Patient(string n, int a, string d, double* t, int s) {
